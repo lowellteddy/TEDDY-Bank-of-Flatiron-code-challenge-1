@@ -1,11 +1,13 @@
 import './App.css';
-import Header from './components/Header';
-import Transaction from './components/Transaction';
+import Navbar from './components/Navbar';
+import Transactions from './components/Transactions';
+
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Transaction />
+      <Navbar />
+      
+      <Transactions />
       
     </div>
   );

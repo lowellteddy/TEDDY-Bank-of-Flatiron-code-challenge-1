@@ -5,7 +5,7 @@ export const bankTransactions = [
         description: "snacks",
         category: "foods",
         amount: 20,
-        quantity: 100
+        quantity: 10
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const bankTransactions = [
         description: "movies",
         category: "entertainment",
         amount: 20,
-        quantity: 150
+        quantity: 10
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export const bankTransactions = [
         description: "snacks",
         category: "foods",
         amount: 20,
-        quantity: 117
+        quantity: 10
     },
     {
         id: 4,
@@ -29,7 +29,6 @@ export const bankTransactions = [
         description: "videos",
         category: "entertainment",
         amount: 200,
-        quantity: 14
-    },
-    
+        quantity: 10
+    }
 ]

@@ -23,7 +23,7 @@ function TransactionItem({ props }) {
                             <td>{category}</td>
                             <td>Ksh{amount}</td>
                             <td>{quantity}</td>
-                            <td><button>Purchase</button></td>
+                            
                         </tr>
                     ))}
 
@@ -33,4 +33,4 @@ function TransactionItem({ props }) {
     )
 }
 
-export default TransactionItem;
+export default TransactionItem
