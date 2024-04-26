@@ -91,7 +91,7 @@ function Form() {
         />
       </form>
       <button type="submit" class="btn btn-primary" onClick={handleSubmission}>
-        Submit
+        Add Transaction
       </button>
     </div>
   );
