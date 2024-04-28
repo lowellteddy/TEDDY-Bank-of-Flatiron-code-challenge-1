@@ -1,18 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
-import Transactions from './components/Transactions';
-import Form from './components/Form';
-import Searchbar from './components/Searchbar';
-
+import Transaction from './components/Transaction';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Searchbar />
-      <Form/>
-      <Transactions/>
+     <Transaction />
      
 
     </div>
